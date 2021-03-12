@@ -11,3 +11,5 @@ def insertionSort(a):
 arr = [41, 51, 69, 36, 51, 68]
 data = insertionSort(arr)
 print(data)
+
+#tutorial git
